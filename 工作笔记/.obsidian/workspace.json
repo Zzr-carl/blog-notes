@@ -173,9 +173,12 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5e0c5fb5f35c7e40",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2026-07-14 公告组件恢复+名片辉光效果.md"
+  ]
 }
